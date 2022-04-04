@@ -1,4 +1,4 @@
-# azcopy12-script
+# Useful Azcopy v12 Script
 Simple scripts for downloading/uploading files &amp; directories from azure blob storage using Azcopy v12
 
 First install azure-storage-blob:
