@@ -18,7 +18,7 @@ python script.py --connect_str [CONNECTION_STRING] --container_name [CONTAINER_N
 
 To **download** a _file_ to blob storage
 ```
-python script.py --connect_str [CONNECTION_STRING] --container_name [CONTAINER_NAME] --source [BLOB_FILE_NAME] --target [LOCAL_FILE_NAME] --is_directory --download
+python script.py --connect_str [CONNECTION_STRING] --container_name [CONTAINER_NAME] --source [BLOB_FILE_NAME] --target [LOCAL_FILE_NAME] --download
 ```
 
 To **downlaod** a _directory_ to blob storage
